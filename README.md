@@ -15,3 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=AyparPoyraz&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://images.steamusercontent.com/ugc/1186083443667681557/B8E12850839EC32D058C52AF310E45E1F9EDC36A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500">
